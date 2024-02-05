@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development.<br>👯 I’m looking to collaborate on Full-Stack Development.<br>🤝 I’m looking to work with different Frameworks for Web Development.<br>🌱<br>💬 Ask me about Comedy and Horror.<br>⚡ I am unpredictable and Z9.
+🔭 I’m currently working on Backend Development.<br>👯 I’m looking to collaborate on Full-Stack Development.<br>🤝 I’m looking to work with different Frameworks for Web Development.
 
 
 ## 🌐 Socials:
