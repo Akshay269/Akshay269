@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Web Development <br>👯 I’m looking to collaborate on FullStack Development<br>🤝 I’m looking for help with Frontend Web Development<br>🌱 I’m currently learning Python and Java
+🌱 I’m currently learning Python and Java.
 
 
 ## 🌐 Socials:
